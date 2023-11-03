@@ -14,7 +14,7 @@ public class Clase2
 {
     public static void main( String[] args )
     {
-     Transforme mayuscula=new Transforme() {
+             Transforme mayuscula=new Transforme() {
             @Override
             public List<String> convertir(List<String> cadena) {
 
